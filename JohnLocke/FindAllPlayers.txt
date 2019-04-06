@@ -1,0 +1,9 @@
+Description: 
+the Player & Staff Search feature will find EVERY player!
+
+Source: https://champman0102.co.uk/showthread.php?t=68&page=50&p=192044#post192044
+Author: JohnLocke
+Compatible with: 3.9.68, tapani and saturn patches.
+
+
+

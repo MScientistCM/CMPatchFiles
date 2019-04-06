@@ -1,0 +1,9 @@
+Description: 
+Force the game to load all players and clubs from the database instead of a maximmun of 100k players.
+
+Source: https://champman0102.co.uk/showthread.php?t=68&p=408830#post408830
+Author: xeno
+Compatible with: 3.9.68, tapani and saturn patches.
+
+
+
