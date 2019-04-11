@@ -5,7 +5,7 @@ Attributes will still be visible in "player and staff search" screen, and in tra
 
 If you want an even higher challenge, then use this patch with the "Use real players" in-game option disabled.
 
-Source: https://champman0102.co.uk/showthread.php?t=3387&p=103165#post103165
+Source: https://champman0102.co.uk/showthread.php?t=3387&p=103165#post103165 and https://champman0102.co.uk/showthread.php?t=12080&p=432896#post432896
 Author: MadScientist (thanks JohnLocke for finding the offset)
 Compatible with: 3.9.68, tapani and saturn patches.
 Savegame compatible? Yes.
