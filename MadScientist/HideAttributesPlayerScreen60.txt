@@ -1,0 +1,11 @@
+Description: 
+Use this patch if you want to play blind mode: It hides all attributes in player screen. 
+
+Attributes will still be visible in "player and staff search" screen, and in training screen, so you must resist the temptation to see the attributes there. You can set it to show stats rather than attributes in those screens in the game.
+
+If you want an even higher challenge, then use this patch with the "Use real players" in-game option disabled.
+
+Source: https://champman0102.co.uk/showthread.php?t=3387&p=103165#post103165
+Author: MadScientist (thanks JohnLocke for finding the offset)
+Compatible with: 3.9.60
+Savegame compatible? Yes.
