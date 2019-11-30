@@ -1,0 +1,9 @@
+Description: 
+This patch fixes a major bug in the game, where the reflexes value is used for creativity of players with CA above 124 and intrinsic creativity above 10.
+
+The only thing it does is that now when CA above 124 and intrinsic above 10, then it uses creativity rather than reflexes for creativity. It doesnt change anything else.
+
+Source: https://champman0102.co.uk/showthread.php?t=1598&p=463967#post463967
+Author: MadScientist
+Compatible with: 3.9.68, tapani and saturn patches.
+Savegame compatible? Yes.
