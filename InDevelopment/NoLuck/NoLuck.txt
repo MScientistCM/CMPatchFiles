@@ -1,0 +1,1 @@
+This is a work in progress for a patch to remove randomness from the game. More details here: https://champman0102.co.uk/showthread.php?t=68&p=486359#post486359
